@@ -52,4 +52,4 @@ Ele permite selecionar o tipo de imóvel, a quantidade de quartos, vagas de gara
 ## 👨‍💻 **Autor**
 
 **Luiz Antônio Marcos**  
-🔗 [LinkedIn](www.linkedin.com/in/luiz-antonio-marcos)
+🔗 LinkedIn: www.linkedin.com/in/luiz-antonio-marcos
